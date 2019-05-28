@@ -1,6 +1,9 @@
 rlutil
 ======
 
+# This fork has been superseeded by [Rogueutil](https://github.com/sakhmatd/rogueutil) #
+Please use Rogueutil as it contains a few more features and fixes some problems encountered with rlutil.
+
 [![Build Status](https://travis-ci.org/tapio/rlutil.svg)](https://travis-ci.org/tapio/rlutil)
 
 _RLUTIL_ is simple utility collection to aid the creation of cross-platform
